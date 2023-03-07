@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikevensa
 - 👀 I’m interested in event technology, web dev, virtually produced events, and Disc Golf. 
-- 🌱 I’m currently learning Web Dev and Programming.
+- 🌱 I’m currently learning Web Dev.
 - 😁 I’m looking to collaborate on virtually produced events or anything exciting.
 
 <!---
